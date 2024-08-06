@@ -1,2 +1,3 @@
 - script.js 普通立方体
 - script2.js 圆角立方体
+- script3.js 将图片变成3D书本
