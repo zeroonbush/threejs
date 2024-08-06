@@ -2,18 +2,21 @@
   "name": "threejs",
   "version": "1.0.0",
   "description": "",
-  "source": "index.html", 
+  "source": "index.html",
   "scripts": {
-    "start": "parcel src/demo4/index.html",
+    "start": "parcel src/demo5/index.html",
     "build": "parcel build src/index.html --no-source-maps"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "path-browserify": "^1.0.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
+    "@tweenjs/tween.js": "^25.0.0",
     "three": "^0.167.1"
   }
 }
