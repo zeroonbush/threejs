@@ -13,3 +13,9 @@ npm start
 ```shell
 npm run build
 ```
+
+## introduction
+- demo1 普通立方体
+- demo2 圆角立方体
+- demo3 将图片变成3D书本
+- demo4 满屏粒子随机颜

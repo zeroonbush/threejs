@@ -1,7 +1,7 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import imgUrl from "../assets/images/1.webp";
-import imgUrl2 from "../assets/images/exam-test.webp";
+import imgUrl from "../../assets/images/1.webp";
+import imgUrl2 from "../../assets/images/exam-test.webp";
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
   20,

@@ -1,12 +1,12 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import floor from "../assets/images/floor.jpeg";
-import number1 from "../assets/images/number1.png";
-import number2 from "../assets/images/number2.png";
-import number3 from "../assets/images/number3.png";
-import number4 from "../assets/images/number4.png";
-import number5 from "../assets/images/number5.png";
-import number6 from "../assets/images/number6.png";
+import floor from "../../assets/images/floor.jpeg";
+import number1 from "../../assets/images/number1.png";
+import number2 from "../../assets/images/number2.png";
+import number3 from "../../assets/images/number3.png";
+import number4 from "../../assets/images/number4.png";
+import number5 from "../../assets/images/number5.png";
+import number6 from "../../assets/images/number6.png";
 
 // 创建场景
 const scene = new THREE.Scene();
