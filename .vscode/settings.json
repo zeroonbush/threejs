@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "zsh-nvm": {
+      "path": "zsh",
+      "args": ["-l", "-c", "[ -s \"/Users/louhaisheng/.nvm/nvm.sh\" ] && \\. \"/Users/louhaisheng/.nvm/nvm.sh\"; nvm use; exec zsh"]
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh-nvm"
+}
